@@ -16,7 +16,7 @@ Practical products. Strong fundamentals. Thoughtful contributions.
 
 ### About me
 
-I'm **Gontu Sujith Reddy**, an engineering undergraduate building a foundation in software development through hands-on projects and open-source work. I enjoy turning everyday problems into useful software—from community resource sharing to inventory workflows.
+I'm **Gontu Sujith Reddy**, an engineering undergraduate building practical web applications and exploring open source. My projects focus on everyday needs: sharing community resources, managing inventory, and understanding traffic.
 
 - **Building:** web applications with a focus on practical user needs.
 - **Learning:** C, data structures and algorithms, Linux, and Shell scripting.
@@ -103,7 +103,7 @@ Submitted a pull request addressing fixups when their target was not applied. Th
 
 <div align="center">
 
-**Build with purpose. Learn with consistency. Contribute with care.**
+<img src="./assets/footer.svg" width="100%" alt="Build with purpose. Learn with consistency. Contribute with care." />
 
 [Repositories](https://github.com/GontuSujithReddy?tab=repositories) · [Pull requests](https://github.com/pulls?q=is%3Apr+author%3AGontuSujithReddy) · [ORCID](https://orcid.org/0009-0003-2506-3489)
 
