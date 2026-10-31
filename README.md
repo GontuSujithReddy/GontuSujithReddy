@@ -25,6 +25,8 @@ I'm **Gontu Sujith Reddy**, an engineering undergraduate building practical web 
 
 ### Selected work
 
+<img src="./assets/projects.svg" width="100%" alt="ResourceBridge: a connecting bridge; StockSense: floating inventory blocks; TrafficGuard AI: an isometric road. Decorative project illustrations." />
+
 <table>
 <tr>
 <td width="50%" valign="top">
