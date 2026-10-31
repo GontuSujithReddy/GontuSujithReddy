@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="projects-title">
+<title id="projects-title">Selected projects: ResourceBridge, StockSense, TrafficGuard AI. Decorative 3D illustrations.</title>
+<defs>
+<linearGradient id="p-bg" x2="1" y2="1"><stop stop-color="#080E18"/><stop offset="1" stop-color="#152B3B"/></linearGradient>
+<linearGradient id="p-top"><stop stop-color="#C8E8F7"/><stop offset="1" stop-color="#6599B8"/></linearGradient>
+<linearGradient id="p-side" x2="1" y2="1"><stop stop-color="#325D78"/><stop offset="1" stop-color="#0F2738"/></linearGradient>
+<radialGradient id="p-glow"><stop stop-color="#4C94C0" stop-opacity=".22"/><stop offset="1" stop-color="#4C94C0" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="390" rx="20" fill="url(#p-bg)"/>
+<path d="M400 28V362M800 28V362" stroke="#2A4051"/>
+<g font-family="monospace" font-size="12" fill="#CDB785" letter-spacing="2"><text x="30" y="38">01 / COMMUNITY</text><text x="430" y="38">02 / OPERATIONS</text><text x="830" y="38">03 / MOBILITY</text></g>
+<ellipse cx="200" cy="177" rx="180" ry="130" fill="url(#p-glow)"/><ellipse cx="600" cy="177" rx="180" ry="130" fill="url(#p-glow)"/><ellipse cx="1000" cy="177" rx="180" ry="130" fill="url(#p-glow)"/>
+<!-- A bridge connecting two raised platforms -->
+<g transform="translate(200 183)">
+<ellipse cy="83" rx="128" ry="23" fill="#02070D" opacity=".5"/>
+<path d="M-160 23-74-24 12 23-74 70Z M-12 23 74-24 160 23 74 70Z" fill="#15394E" stroke="#426F88"/>
+<path d="M-160 23-74 70 12 23V39L-74 86-160 39Z M-12 23 74 70 160 23V39L74 86-12 39Z" fill="#0B2030" stroke="#264A61"/>
+<path d="M-100 4 72-91 103-74-69 21Z" fill="url(#p-top)"/>
+<path d="M-69 21 103-74V-61L-69 34Z" fill="url(#p-side)" stroke="#79A8C3"/>
+<path d="M-93 0V-57L-67-72V-14M65-86V-142L91-127V-72" fill="none" stroke="#A8D3EA" stroke-width="5"/>
+<path d="M-92-56Q-15 5 65-141M-68-70Q10 10 90-126" fill="none" stroke="#CDB785" stroke-width="2"/>
+<circle r="4" fill="#F0DCA9"><animateMotion path="M-82 2 L87 -90" dur="5s" repeatCount="indefinite"/></circle>
+</g>
+<!-- Stacked inventory blocks -->
+<g transform="translate(600 180)">
+<ellipse cy="88" rx="130" ry="25" fill="#02070D" opacity=".5"/>
+<path d="M0-45 145 34 0 113-145 34Z" fill="#173A4F" stroke="#456B80"/>
+<path d="M-145 34 0 113 145 34V48L0 127-145 48Z" fill="#0C2333"/>
+<g transform="translate(-57 5)"><path d="M0-42 45-17 0 8-45-17Z" fill="url(#p-top)"/><path d="M-45-17 0 8V64L-45 39Z" fill="url(#p-side)"/><path d="M0 8 45-17V39L0 64Z" fill="#244D66"/><path d="M-12-35 32-10V15" stroke="#CDB785" stroke-width="6" fill="none"/></g>
+<g transform="translate(46 16)"><path d="M0-42 45-17 0 8-45-17Z" fill="url(#p-top)"/><path d="M-45-17 0 8V64L-45 39Z" fill="url(#p-side)"/><path d="M0 8 45-17V39L0 64Z" fill="#244D66"/><path d="M-12-35 32-10V15" stroke="#CDB785" stroke-width="6" fill="none"/></g>
+<g transform="translate(0 -73)"><animateTransform attributeName="transform" type="translate" values="0 -73;0 -80;0 -73" dur="7s" repeatCount="indefinite"/><path d="M0-42 45-17 0 8-45-17Z" fill="url(#p-top)"/><path d="M-45-17 0 8V64L-45 39Z" fill="url(#p-side)" stroke="#5F92AE"/><path d="M0 8 45-17V39L0 64Z" fill="#244D66" stroke="#5F92AE"/><path d="M-12-35 32-10V15" stroke="#CDB785" stroke-width="6" fill="none"/></g>
+</g>
+<!-- Isometric road with moving light -->
+<g transform="translate(1000 180)">
+<ellipse cy="85" rx="132" ry="26" fill="#02070D" opacity=".5"/>
+<path d="M0-73 151 9 0 92-151 9Z" fill="#142E40" stroke="#47768F"/>
+<path d="M-151 9 0 92 151 9V28L0 111-151 28Z" fill="#0B2030" stroke="#24475C"/>
+<path d="M-122 25 105-99 140-79-87 44Z" fill="#244C64"/>
+<path d="M-105 35 123-90" stroke="#CDB785" stroke-dasharray="12 12" stroke-width="2"/>
+<path d="M-105 13 105-102" stroke="#78B9DD" stroke-opacity=".6"/>
+<g transform="translate(-58 -20)"><path d="M0-25 28-10 0 5-28-10Z" fill="#C5E3F2"/><path d="M-28-10 0 5V18L-28 3Z" fill="#497E9C"/><path d="M0 5 28-10V3L0 18Z" fill="#24465B"/></g>
+<path d="M70 36V-46" stroke="#7AABC6" stroke-width="5"/>
+<rect x="56" y="-100" width="28" height="60" rx="7" fill="#0A1621" stroke="#6D9DB7"/>
+<circle cx="70" cy="-84" r="6" fill="#CDB785"/><circle cx="70" cy="-64" r="6" fill="#8FD7EF"><animate attributeName="opacity" values=".3;1;.3" dur="4s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#BFEAFF"><animateMotion path="M-110 16L101 -99" dur="6s" repeatCount="indefinite"/></circle>
+</g>
+<path d="M30 301H370M430 301H770M830 301H1170" stroke="#314A5C"/>
+<g font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#E5EFF5"><text x="30" y="337">ResourceBridge</text><text x="430" y="337">StockSense</text><text x="830" y="337">TrafficGuard AI</text></g>
+<g font-family="Arial,sans-serif" font-size="14" fill="#97B2C5"><text x="30" y="366">Connect people. Share resources.</text><text x="430" y="366">Bring clarity to inventory.</text><text x="830" y="366">Explore smarter mobility.</text></g>
+</svg>
