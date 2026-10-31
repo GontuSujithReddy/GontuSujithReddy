@@ -87,12 +87,15 @@ Submitted a pull request addressing fixups when their target was not applied. Th
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GontuSujithReddy&show_icons=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1" alt="GitHub statistics for GontuSujithReddy" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GontuSujithReddy&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=CBD5E1" alt="Languages in public repositories" />
+![Followers](https://img.shields.io/github/followers/GontuSujithReddy?style=for-the-badge&label=Followers&color=67E8F9&labelColor=111827)
+
+| Public repositories | Contributions in the last year | Followers |
+| :---: | :---: | :---: |
+| **10** | **46** | **3** |
+
+<sub>Snapshot: 31 October 2026, after this profile update. Counts evolve with activity.</sub>
 
 [View live contribution graph and activity on GitHub](https://github.com/GontuSujithReddy?tab=overview)
-
-<sub>Statistics are served by a third-party service and may be temporarily unavailable. Language totals describe repositories, not proficiency.</sub>
 
 </div>
 
