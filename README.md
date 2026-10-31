@@ -4,9 +4,9 @@
 
 <br/>
 
-**DEVELOPER · PROBLEM SOLVER · OPEN-SOURCE EXPLORER**
+**SOFTWARE DEVELOPMENT &nbsp; / &nbsp; PROBLEM SOLVING &nbsp; / &nbsp; OPEN SOURCE**
 
-Building practical products, strengthening the fundamentals, and learning in public.
+Practical products. Strong fundamentals. Thoughtful contributions.
 
 [Explore projects](#selected-work) · [Open source](#open-source) · [GitHub activity](#github-activity)
 
@@ -60,16 +60,16 @@ I'm **Gontu Sujith Reddy**, an engineering undergraduate building a foundation i
 
 **Languages used across my projects**
 
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=67E8F9)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=67E8F9)
-![HTML](https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5&logoColor=67E8F9)
+![C](https://img.shields.io/badge/C-0B1421?style=for-the-badge&logo=c&logoColor=9BD2F0)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1421?style=for-the-badge&logo=typescript&logoColor=9BD2F0)
+![HTML](https://img.shields.io/badge/HTML-0B1421?style=for-the-badge&logo=html5&logoColor=9BD2F0)
 
 **Development environment & growing foundations**
 
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=A78BFA)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=A78BFA)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=A78BFA)
-![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logoColor=A78BFA)
+![Git](https://img.shields.io/badge/Git-0B1421?style=for-the-badge&logo=git&logoColor=CDB785)
+![GitHub](https://img.shields.io/badge/GitHub-0B1421?style=for-the-badge&logo=github&logoColor=CDB785)
+![Linux](https://img.shields.io/badge/Linux-0B1421?style=for-the-badge&logo=linux&logoColor=CDB785)
+![VS Code](https://img.shields.io/badge/VS_Code-0B1421?style=for-the-badge&logoColor=CDB785)
 
 <sub>Actively developing: C programming · DSA · Shell scripting · debugging · automated tests · code review.</sub>
 
@@ -81,19 +81,19 @@ Submitted a pull request addressing fixups when their target was not applied. Th
 
 [Git pull request #2465](https://github.com/git/git/pull/2465) · [GitGitGadget submission #2277](https://github.com/gitgitgadget/git/pull/2277) · [All public pull requests](https://github.com/pulls?q=is%3Apr+author%3AGontuSujithReddy)
 
-<sub>Submissions are linked as contributions in progress; no merge or acceptance is implied.</sub>
+<sub>Contribution submissions · Follow the linked discussions for current review status.</sub>
 
 ### GitHub activity
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/GontuSujithReddy?style=for-the-badge&label=Followers&color=67E8F9&labelColor=111827)
+![Followers](https://img.shields.io/github/followers/GontuSujithReddy?style=for-the-badge&label=Followers&color=9BD2F0&labelColor=0B1421)
 
 | Public repositories | Contributions in the last year | Followers |
 | :---: | :---: | :---: |
 | **10** | **46** | **3** |
 
-<sub>Snapshot: 31 October 2026, after this profile update. Counts evolve with activity.</sub>
+<sub>Activity snapshot · 31 October 2026 · See GitHub below for current counts.</sub>
 
 [View live contribution graph and activity on GitHub](https://github.com/GontuSujithReddy?tab=overview)
 
