@@ -1,72 +1,82 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="560" viewBox="0 0 1440 560" role="img" aria-labelledby="gsr-title gsr-desc">
-<title id="gsr-title">Gontu Sujith Reddy — Learn. Build. Contribute.</title>
-<desc id="gsr-desc">An obsidian developer identity with a floating architectural glass core, blue orbital paths and champagne detailing.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="610" viewBox="0 0 1440 610" role="img" aria-labelledby="title desc">
+<title id="title">Gontu Sujith Reddy — Ideas into useful software.</title>
+<desc id="desc">Midnight-blue developer studio with an animated floating three-dimensional robot, orbital rings and a learning, building, contributing pathway. The illustration is decorative.</desc>
 <defs>
-<linearGradient id="gsr-bg" x2="1" y2="1"><stop stop-color="#06090F"/><stop offset=".55" stop-color="#0B1421"/><stop offset="1" stop-color="#101D2B"/></linearGradient>
-<radialGradient id="gsr-halo"><stop stop-color="#388CC0" stop-opacity=".27"/><stop offset="1" stop-color="#388CC0" stop-opacity="0"/></radialGradient>
-<linearGradient id="gsr-top" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#EAF8FF"/><stop offset=".45" stop-color="#91C8E5"/><stop offset="1" stop-color="#32688A"/></linearGradient>
-<linearGradient id="gsr-l" x2="1" y2="1"><stop stop-color="#173C58"/><stop offset="1" stop-color="#081520"/></linearGradient>
-<linearGradient id="gsr-r" x2="1" y2="0"><stop stop-color="#234862"/><stop offset="1" stop-color="#102434"/></linearGradient>
-<linearGradient id="gsr-gold"><stop stop-color="#8B7142"/><stop offset=".5" stop-color="#F4D99B"/><stop offset="1" stop-color="#9C814D"/></linearGradient>
-<linearGradient id="gsr-line"><stop stop-color="#80CAFA" stop-opacity="0"/><stop offset=".5" stop-color="#80CAFA"/><stop offset="1" stop-color="#80CAFA" stop-opacity="0"/></linearGradient>
-<pattern id="gsr-grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#9DCAE3" stroke-opacity=".035"/></pattern>
-<filter id="gsr-blur"><feGaussianBlur stdDeviation="14"/></filter>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#060E1D"/><stop offset="1" stop-color="#11253D"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#168CB8" stop-opacity=".38"/><stop offset="1" stop-color="#168CB8" stop-opacity="0"/></radialGradient>
+<linearGradient id="metal" x2=".9" y2="1"><stop stop-color="#F1FCFF"/><stop offset=".35" stop-color="#A3D6E7"/><stop offset=".7" stop-color="#4E819E"/><stop offset="1" stop-color="#24445F"/></linearGradient>
+<linearGradient id="side" x2="1" y2="1"><stop stop-color="#315575"/><stop offset="1" stop-color="#122B43"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#61E7EB"/><stop offset="1" stop-color="#8AA4FF"/></linearGradient>
+<pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#94BCE0" stroke-opacity=".045"/></pattern>
+<filter id="shadow" x="-40%" y="-40%" width="180%" height="200%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000917" flood-opacity=".7"/></filter>
+<style>
+.float{animation:float 6s ease-in-out infinite}.pulse{animation:pulse 3s ease-in-out infinite}.blink{animation:blink 7s infinite;transform-box:fill-box;transform-origin:center}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}
+@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
+@keyframes blink{0%,42%,46%,100%{transform:scaleY(1)}44%{transform:scaleY(.12)}}
+@media(prefers-reduced-motion:reduce){.float,.pulse,.blink{animation:none}}
+</style>
 </defs>
-<rect width="1440" height="560" rx="26" fill="url(#gsr-bg)"/>
-<rect x=".5" y=".5" width="1439" height="559" rx="26" fill="none" stroke="#2C3D4D"/>
-<rect width="1440" height="560" rx="26" fill="url(#gsr-grid)"/>
-<ellipse cx="1110" cy="270" rx="330" ry="270" fill="url(#gsr-halo)"/>
-<path d="M50 58H1390" stroke="#294052" stroke-width=".8"/>
-<text x="62" y="41" fill="#A3B6C5" font-family="Arial,sans-serif" font-size="11" letter-spacing="3">GSR / ENGINEERING IN PROGRESS</text>
-<text x="1378" y="41" text-anchor="end" fill="#CAB78B" font-family="monospace" font-size="11" letter-spacing="2">DEVELOPER PORTFOLIO</text>
-<rect x="62" y="112" width="32" height="2" fill="url(#gsr-gold)"/>
-<text x="109" y="117" fill="#D4C19A" font-family="Arial,sans-serif" font-size="13" letter-spacing="4">CURIOSITY. CRAFT. IMPACT.</text>
-<text x="61" y="205" font-family="Arial,sans-serif" font-size="67" font-weight="700" letter-spacing="-2" fill="#020509">Gontu Sujith</text>
-<text x="58" y="201" font-family="Arial,sans-serif" font-size="67" font-weight="700" letter-spacing="-2" fill="#F1F5F8">Gontu Sujith</text>
-<text x="61" y="281" font-family="Arial,sans-serif" font-size="75" font-weight="700" letter-spacing="-2" fill="#020509">Reddy.</text>
-<text x="58" y="277" font-family="Arial,sans-serif" font-size="75" font-weight="700" letter-spacing="-2" fill="#F1F5F8">Reddy<tspan fill="#CDB785">.</tspan></text>
-<text x="62" y="329" font-family="Arial,sans-serif" font-size="22" fill="#AABCCB">Building useful software.</text>
-<text x="62" y="363" font-family="Arial,sans-serif" font-size="22" fill="#AABCCB">Growing through open source.</text>
-<path d="M62 398H647" stroke="#233546"/>
-<g font-family="monospace" font-size="13" letter-spacing="2">
-<text x="62" y="432" fill="#CDB785">01</text><text x="94" y="432" fill="#DDE8EE">LEARN</text>
-<text x="245" y="432" fill="#CDB785">02</text><text x="277" y="432" fill="#DDE8EE">BUILD</text>
-<text x="432" y="432" fill="#CDB785">03</text><text x="464" y="432" fill="#DDE8EE">CONTRIBUTE</text>
-</g>
-<path d="M730 438 1080 525 1400 346 M780 462 1100 540 M866 420 1220 510 M965 390 1330 480" fill="none" stroke="#4A7795" stroke-opacity=".12"/>
-<ellipse cx="1104" cy="426" rx="176" ry="39" fill="#000" opacity=".55" filter="url(#gsr-blur)"/>
-<g transform="translate(1100 330)">
-<ellipse rx="238" ry="77" fill="none" stroke="#4A7B98" stroke-opacity=".3" transform="rotate(-18)"/>
-<ellipse rx="204" ry="62" fill="none" stroke="#A1CAE0" stroke-opacity=".2" transform="rotate(17)"/>
-<g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="40s" repeatCount="indefinite"/>
-<ellipse rx="254" ry="254" transform="scale(1 .32)" fill="none" stroke="#84CAED" stroke-opacity=".15" stroke-dasharray="2 12"/>
+<rect width="1440" height="610" rx="28" fill="url(#bg)"/>
+<rect width="1440" height="610" rx="28" fill="url(#grid)"/>
+<rect x="1" y="1" width="1438" height="608" rx="27" fill="none" stroke="#29415A"/>
+<ellipse cx="1090" cy="290" rx="350" ry="310" fill="url(#halo)"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<circle cx="62" cy="43" r="5" fill="#61E7EB" class="pulse"/>
+<text x="80" y="48" font-size="13" letter-spacing="3" fill="#A6BBCD">GSR / DEVELOPER STUDIO</text>
+<text x="1378" y="48" font-size="12" letter-spacing="3" fill="#7D9BB4" text-anchor="end">LEARN · BUILD · CONTRIBUTE</text>
+<path d="M60 70H1380" stroke="#284058"/>
+<rect x="62" y="111" width="215" height="30" rx="15" fill="#123541" stroke="#286072"/>
+<text x="169" y="131" text-anchor="middle" fill="#8AF0EB" font-size="11" letter-spacing="2">ENGINEERING IN PROGRESS</text>
+<text x="60" y="215" fill="#F4FAFF" font-size="68" font-weight="700" letter-spacing="-2">Gontu Sujith</text>
+<text x="60" y="291" fill="#F4FAFF" font-size="76" font-weight="700" letter-spacing="-2">Reddy<tspan fill="#61E7EB">.</tspan></text>
+<text x="64" y="347" fill="#BDD0E1" font-size="27">Ideas into useful software.</text>
+<text x="64" y="386" fill="#8FA9C1" font-size="20">Curiosity in the process. Purpose in the product.</text>
+<g font-size="13" letter-spacing="1">
+<rect x="62" y="425" width="176" height="37" rx="8" fill="#142B43" stroke="#2B4964"/><text x="150" y="449" fill="#C4D8E9" text-anchor="middle">WEB APPLICATIONS</text>
+<rect x="250" y="425" width="172" height="37" rx="8" fill="#142B43" stroke="#2B4964"/><text x="336" y="449" fill="#C4D8E9" text-anchor="middle">OPEN SOURCE</text>
+<rect x="434" y="425" width="180" height="37" rx="8" fill="#142B43" stroke="#2B4964"/><text x="524" y="449" fill="#C4D8E9" text-anchor="middle">PROBLEM SOLVING</text>
 </g>
 </g>
-<g transform="translate(1100 365)">
-<path d="M0-100 166-10 0 80-166-10Z" fill="#142D40" stroke="#59849B"/>
-<path d="M-166-10 0 80V98L-166 8Z" fill="#091522" stroke="#24465D"/>
-<path d="M0 80 166-10V8L0 98Z" fill="#11293A" stroke="#315570"/>
-<path d="M-147-10 0-90 147-10 0 70Z" fill="none" stroke="#7BC8F0" stroke-opacity=".35"/>
+<g fill="none" stroke="#5AA8CD">
+<ellipse cx="1090" cy="300" rx="258" ry="193" stroke-opacity=".17" transform="rotate(-24 1090 300)"/>
+<ellipse cx="1090" cy="300" rx="230" ry="150" stroke-opacity=".13" transform="rotate(35 1090 300)"/>
+<path d="M800 459 1088 540 1370 448M849 444 1137 525M930 421 1221 502M1010 398 1300 478" stroke-opacity=".12"/>
 </g>
-<g transform="translate(1100 204)"><g>
-<animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="7s" repeatCount="indefinite"/>
-<path d="M0-100 113-38 0 24-113-38Z" fill="url(#gsr-top)" stroke="#D4EEFC"/>
-<path d="M-113-38 0 24V160L-113 98Z" fill="url(#gsr-l)" stroke="#467C9C"/>
-<path d="M0 24 113-38V98L0 160Z" fill="url(#gsr-r)" stroke="#5D9AB9"/>
-<path d="M0-77 86-30 0 17-86-30Z" fill="#091D2B" opacity=".6" stroke="#DEF5FF"/>
-<path d="M-43-30-14-46M-43-30-14-14M43-30 14-46M43-30 14-14M8-53-8-7" fill="none" stroke="#D4EDFA" stroke-width="4" stroke-linecap="round"/>
-<path d="M-90-6V83M-70 6V95M-50 17V107M-30 28V119" stroke="#75C6F5" opacity=".14"/>
-<path d="M16 44V132L97 88V0" fill="none" stroke="#9DD4ED" opacity=".25"/>
-<path d="M0 25V160" stroke="#D7C28E" stroke-width="2"/>
-<path d="M-113 64 0 126 113 64" fill="none" stroke="url(#gsr-gold)" stroke-width="2"/>
-<circle cx="64" cy="79" r="4" fill="#B7E7FF"><animate attributeName="opacity" values=".3;1;.3" dur="3s" repeatCount="indefinite"/></circle>
-</g></g>
-<g fill="#B5DDF2"><circle cx="870" cy="190" r="2"/><circle cx="1300" cy="124" r="2"/><circle cx="1348" cy="284" r="3"/><circle cx="918" cy="382" r="3"/></g>
-<path d="M854 190H904L948 167M1259 124H1300V153M1304 284H1348" fill="none" stroke="#6AA7C9" stroke-opacity=".35"/>
-<text x="822" y="173" fill="#6C93AA" font-family="monospace" font-size="10" letter-spacing="2">IDEA → SYSTEM</text>
-<text x="1180" y="473" fill="#6C93AA" font-family="monospace" font-size="10" letter-spacing="2">BUILD WITH INTENTION</text>
-<path d="M62 500H1378" stroke="#263A4B"/>
-<path d="M62 500H350" stroke="url(#gsr-line)" stroke-width="2"><animate attributeName="opacity" values=".3;1;.3" dur="5s" repeatCount="indefinite"/></path>
-<text x="62" y="532" font-family="monospace" font-size="11" fill="#71899B" letter-spacing="2">SOFTWARE / PROBLEM SOLVING / OPEN SOURCE</text>
-<text x="1378" y="532" text-anchor="end" font-family="monospace" font-size="11" fill="#C2AF86" letter-spacing="2">ALWAYS EVOLVING ↗</text>
+<circle cx="1311" cy="184" r="7" fill="#79DDE9" class="pulse"/>
+<circle cx="867" cy="386" r="5" fill="#94A8FF" class="pulse"/>
+<ellipse cx="1090" cy="476" rx="138" ry="23" fill="#020A16" opacity=".55"/>
+<g class="float">
+<g filter="url(#shadow)">
+<path d="M1037 346 1149 334 1190 388 1168 431 1035 443 1003 395Z" fill="url(#side)" stroke="#6096B4"/>
+<path d="M1019 351 1139 344 1167 394 1144 425 1033 433 1006 392Z" fill="url(#metal)"/>
+<rect x="1041" y="370" width="81" height="32" rx="12" fill="#0B2539" transform="rotate(-4 1080 386)"/>
+<path d="M1061 386h12m9 0h20" stroke="#69E4E9" stroke-width="4" stroke-linecap="round"/>
+<path d="M989 348 962 372 956 410" fill="none" stroke="#79A7C2" stroke-width="24" stroke-linecap="round"/>
+<path d="M1179 337 1227 317 1242 280" fill="none" stroke="#7AAFC7" stroke-width="24" stroke-linecap="round"/>
+<circle cx="1245" cy="269" r="21" fill="url(#metal)"/>
+<path d="M1232 251v-17m13 15 3-20m10 24 8-14" stroke="#A2D4E5" stroke-width="8" stroke-linecap="round"/>
+<path d="M1068 191 1063 169" stroke="#8CC4DA" stroke-width="7"/>
+<circle cx="1061" cy="158" r="12" fill="#6BE9E9" class="pulse"/>
+<path d="M998 205 1145 187Q1181 187 1190 220L1200 292Q1203 327 1168 337L1016 351Q978 351 976 318L969 243Q967 213 998 205" fill="url(#side)" stroke="#668EAC"/>
+<path d="M978 205 1125 193Q1160 190 1166 223L1174 290Q1177 324 1143 330L995 344Q960 345 958 313L952 244Q949 211 978 205" fill="url(#metal)" stroke="#B6DCEB"/>
+<path d="M985 230 1120 218Q1137 217 1140 237L1146 286Q1148 305 1127 308L997 321Q977 322 975 301L970 254Q968 234 985 230" fill="#071C2D" stroke="#28526C" stroke-width="3"/>
+<g class="blink" fill="#78F1EE"><ellipse cx="1015" cy="270" rx="12" ry="17"/><ellipse cx="1100" cy="262" rx="12" ry="17"/></g>
+<path d="M1041 287Q1060 301 1081 284" fill="none" stroke="#78F1EE" stroke-width="5" stroke-linecap="round"/>
+<path d="m973 222 145-14" stroke="#F2FDFF" opacity=".7" stroke-width="3"/>
+</g>
+<g font-family="monospace" font-size="16">
+<rect x="820" y="198" width="112" height="48" rx="12" fill="#112C43" stroke="#3B637C" transform="rotate(-9 876 222)"/><text x="876" y="229" text-anchor="middle" fill="#83E3E9" transform="rotate(-9 876 222)">&lt;build /&gt;</text>
+<rect x="1221" y="362" width="106" height="47" rx="12" fill="#1A2B49" stroke="#4F638C" transform="rotate(8 1274 385)"/><text x="1274" y="391" text-anchor="middle" fill="#B7C5FF" transform="rotate(8 1274 385)">git ++</text>
+</g>
+</g>
+<path d="M60 510H1380" stroke="#284058"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="62" y="550" fill="#6BE2E8" font-size="12" letter-spacing="2">01 / LEARN DEEPLY</text>
+<text x="62" y="575" fill="#829DB6" font-size="14">Fundamentals that last.</text>
+<text x="532" y="550" fill="#91B6FF" font-size="12" letter-spacing="2">02 / BUILD WITH PURPOSE</text>
+<text x="532" y="575" fill="#829DB6" font-size="14">Projects grounded in real needs.</text>
+<text x="1010" y="550" fill="#B1A7F2" font-size="12" letter-spacing="2">03 / CONTRIBUTE WITH CARE</text>
+<text x="1010" y="575" fill="#829DB6" font-size="14">Better software, together.</text>
+</g>
 </svg>
