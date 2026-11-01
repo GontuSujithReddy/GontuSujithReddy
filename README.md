@@ -105,7 +105,7 @@ Submitted a pull request addressing fixups when their target was not applied. Th
 
 ![Followers](https://img.shields.io/github/followers/GontuSujithReddy?style=for-the-badge&label=Followers&color=61E7EB&labelColor=0B1421)
 
-<img src="./assets/activity.svg" width="100%" alt="Activity snapshot on 1 November 2026: 10 public repositories, 53 contributions in the last year, 3 followers; contribution mix 95% commits and 5% pull requests." />
+<img src="https://raw.githubusercontent.com/GontuSujithReddy/GontuSujithReddy/7dd11c5b629bb847a3dcf700978da279078679b6/assets/activity.svg" width="100%" alt="Animated 3D-style line chart of monthly contributions: August 1, September 17, October 26, November 1st 11. Snapshot on 1 November 2026; not live. Perspective depth is decorative." />
 
 <sub>Snapshot observed on 1 November 2026, before this design update · Counts are not live; see GitHub’s native activity below for current totals.</sub>
 
