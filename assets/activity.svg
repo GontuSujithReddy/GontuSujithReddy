@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">GitHub activity — dated snapshot</title><desc id="desc">Observed 1 November 2026 before this profile update. 10 public repositories, 53 contributions in the last year, 3 followers. GitHub activity overview: 95 percent commits, 5 percent pull requests, 0 percent issues and reviews. These are snapshot values, not live statistics.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0A1425"/><stop offset="1" stop-color="#122A40"/></linearGradient></defs>
+<rect width="1200" height="390" rx="24" fill="url(#bg)"/><rect x=".5" y=".5" width="1199" height="389" rx="24" fill="none" stroke="#2A455F"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="38" y="45" fill="#E4F1FD" font-size="21" font-weight="700">Progress, made visible.</text>
+<text x="1162" y="43" fill="#8AA8C0" font-size="12" text-anchor="end" letter-spacing="1">SNAPSHOT / 01 NOV 2026</text>
+<path d="M38 66H1162" stroke="#29465F"/>
+<g fill="#0C1C2F" stroke="#28455F"><rect x="38" y="94" width="205" height="155" rx="16"/><rect x="261" y="94" width="205" height="155" rx="16"/><rect x="484" y="94" width="205" height="155" rx="16"/></g>
+<text x="61" y="129" fill="#8FAAC0" font-size="12" letter-spacing="1">PUBLIC REPOSITORIES</text><text x="61" y="198" fill="#64E5EA" font-size="57" font-weight="700">10</text><text x="61" y="228" fill="#9CB4C8" font-size="13">Projects and explorations</text>
+<text x="284" y="129" fill="#8FAAC0" font-size="12" letter-spacing="1">YEARLY CONTRIBUTIONS</text><text x="284" y="198" fill="#9BB7FF" font-size="57" font-weight="700">53</text><text x="284" y="228" fill="#9CB4C8" font-size="13">GitHub profile count</text>
+<text x="507" y="129" fill="#8FAAC0" font-size="12" letter-spacing="1">FOLLOWERS</text><text x="507" y="198" fill="#B5ADF8" font-size="57" font-weight="700">03</text><text x="507" y="228" fill="#9CB4C8" font-size="13">Growing a community</text>
+<circle cx="818" cy="175" r="65" fill="none" stroke="#A5AEFF" stroke-width="19"/>
+<circle cx="818" cy="175" r="65" fill="none" stroke="#61E7EB" stroke-width="19" stroke-dasharray="388 20.4" transform="rotate(-90 818 175)"/>
+<text x="818" y="174" text-anchor="middle" fill="#ECF7FF" font-size="30" font-weight="700">95%</text><text x="818" y="197" text-anchor="middle" fill="#9EB6CB" font-size="12">commits</text>
+<text x="923" y="111" fill="#C3D6E6" font-size="15" font-weight="700">Contribution mix</text>
+<circle cx="929" cy="146" r="5" fill="#61E7EB"/><text x="944" y="151" fill="#B2C8D9" font-size="14">Commits</text><text x="1158" y="151" text-anchor="end" fill="#E4F1FD" font-size="14">95%</text>
+<circle cx="929" cy="179" r="5" fill="#A5AEFF"/><text x="944" y="184" fill="#B2C8D9" font-size="14">Pull requests</text><text x="1158" y="184" text-anchor="end" fill="#E4F1FD" font-size="14">5%</text>
+<circle cx="929" cy="212" r="5" fill="#415C75"/><text x="944" y="217" fill="#8AA5BC" font-size="14">Issues / reviews</text><text x="1158" y="217" text-anchor="end" fill="#8AA5BC" font-size="14">0% / 0%</text>
+<path d="M38 283H1162" stroke="#29465F"/>
+<text x="38" y="319" fill="#B7CCDD" font-size="15">Small steps. Real code. Continuous learning.</text>
+<text x="38" y="349" fill="#7F9BB2" font-size="12">Source: public GitHub profile and activity overview, observed before this design update. Rounded percentages as displayed by GitHub.</text>
+<text x="1162" y="319" text-anchor="end" fill="#61E7EB" font-size="12" letter-spacing="1">LEARNING IN PUBLIC ↗</text>
+</g></svg>
