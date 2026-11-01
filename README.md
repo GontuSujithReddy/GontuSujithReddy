@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg?v=robot-studio-1" width="100%" alt="Gontu Sujith Reddy — animated developer studio with a floating 3D-style robot." />
+<img src="https://raw.githubusercontent.com/GontuSujithReddy/GontuSujithReddy/95c9953db3dbfaa6defef07a1d43d5272c96b763/assets/hero.svg" width="100%" alt="Gontu Sujith Reddy — animated developer studio with a floating 3D-style robot." />
 
 <br/>
 
