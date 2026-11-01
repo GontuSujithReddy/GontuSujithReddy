@@ -10,11 +10,17 @@
 <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#94BCE0" stroke-opacity=".045"/></pattern>
 <filter id="shadow" x="-40%" y="-40%" width="180%" height="200%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000917" flood-opacity=".7"/></filter>
 <style>
-.float{animation:float 6s ease-in-out infinite}.pulse{animation:pulse 3s ease-in-out infinite}.blink{animation:blink 7s infinite;transform-box:fill-box;transform-origin:center}
-@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}
+.float{animation:float 4s ease-in-out infinite}.pulse{animation:pulse 3s ease-in-out infinite}.blink{animation:blink 7s infinite;transform-box:fill-box;transform-origin:center}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-18px)}}
 @keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
 @keyframes blink{0%,42%,46%,100%{transform:scaleY(1)}44%{transform:scaleY(.12)}}
-@media(prefers-reduced-motion:reduce){.float,.pulse,.blink{animation:none}}
+.wave{transform-origin:1179px 337px;animation:wave 5s ease-in-out infinite}
+.head{transform-origin:1065px 336px;animation:nod 7s ease-in-out infinite}
+.ground{transform-origin:1090px 476px;animation:ground 4s ease-in-out infinite}
+@keyframes wave{0%,12%,56%,100%{transform:rotate(0deg)}20%,36%{transform:rotate(-17deg)}28%,44%{transform:rotate(13deg)}}
+@keyframes nod{0%,18%,65%,100%{transform:rotate(0deg)}32%,48%{transform:rotate(-5deg)}78%,86%{transform:rotate(3deg)}}
+@keyframes ground{0%,100%{transform:scaleX(1);opacity:.55}50%{transform:scaleX(.82);opacity:.32}}
+@media(prefers-reduced-motion:reduce){.float,.pulse,.blink,.wave,.head,.ground{animation:none}}
 </style>
 </defs>
 <rect width="1440" height="610" rx="28" fill="url(#bg)"/>
@@ -45,7 +51,7 @@
 </g>
 <circle cx="1311" cy="184" r="7" fill="#79DDE9" class="pulse"/>
 <circle cx="867" cy="386" r="5" fill="#94A8FF" class="pulse"/>
-<ellipse cx="1090" cy="476" rx="138" ry="23" fill="#020A16" opacity=".55"/>
+<ellipse class="ground" cx="1090" cy="476" rx="138" ry="23" fill="#020A16" opacity=".55"/>
 <g class="float">
 <g filter="url(#shadow)">
 <path d="M1037 346 1149 334 1190 388 1168 431 1035 443 1003 395Z" fill="url(#side)" stroke="#6096B4"/>
@@ -53,9 +59,12 @@
 <rect x="1041" y="370" width="81" height="32" rx="12" fill="#0B2539" transform="rotate(-4 1080 386)"/>
 <path d="M1061 386h12m9 0h20" stroke="#69E4E9" stroke-width="4" stroke-linecap="round"/>
 <path d="M989 348 962 372 956 410" fill="none" stroke="#79A7C2" stroke-width="24" stroke-linecap="round"/>
+<g class="wave">
 <path d="M1179 337 1227 317 1242 280" fill="none" stroke="#7AAFC7" stroke-width="24" stroke-linecap="round"/>
 <circle cx="1245" cy="269" r="21" fill="url(#metal)"/>
 <path d="M1232 251v-17m13 15 3-20m10 24 8-14" stroke="#A2D4E5" stroke-width="8" stroke-linecap="round"/>
+</g>
+<g class="head">
 <path d="M1068 191 1063 169" stroke="#8CC4DA" stroke-width="7"/>
 <circle cx="1061" cy="158" r="12" fill="#6BE9E9" class="pulse"/>
 <path d="M998 205 1145 187Q1181 187 1190 220L1200 292Q1203 327 1168 337L1016 351Q978 351 976 318L969 243Q967 213 998 205" fill="url(#side)" stroke="#668EAC"/>
@@ -64,6 +73,7 @@
 <g class="blink" fill="#78F1EE"><ellipse cx="1015" cy="270" rx="12" ry="17"/><ellipse cx="1100" cy="262" rx="12" ry="17"/></g>
 <path d="M1041 287Q1060 301 1081 284" fill="none" stroke="#78F1EE" stroke-width="5" stroke-linecap="round"/>
 <path d="m973 222 145-14" stroke="#F2FDFF" opacity=".7" stroke-width="3"/>
+</g>
 </g>
 <g font-family="monospace" font-size="16">
 <rect x="820" y="198" width="112" height="48" rx="12" fill="#112C43" stroke="#3B637C" transform="rotate(-9 876 222)"/><text x="876" y="229" text-anchor="middle" fill="#83E3E9" transform="rotate(-9 876 222)">&lt;build /&gt;</text>
