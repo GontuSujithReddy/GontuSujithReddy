@@ -109,6 +109,10 @@ Submitted a pull request addressing fixups when their target was not applied. Th
 
 <sub>Snapshot observed on 1 November 2026, before this design update · Counts are not live; see GitHub’s native activity below for current totals.</sub>
 
+<br/>
+
+<img src="./assets/contributions-3d.svg" width="100%" alt="3D contribution calendar: 55 contributions across 13 active days, 2 November 2025 to 1 November 2026. Snapshot before this update; not live." />
+
 [View live contribution graph and activity on GitHub](https://github.com/GontuSujithReddy?tab=overview)
 
 </div>
@@ -117,11 +121,14 @@ Submitted a pull request addressing fixups when their target was not applied. Th
 
 <div align="center">
 
-<h3>Thank You for Visiting!</h3>
 <p>Explore a project, follow the journey, or share an idea.</p>
 
 <img src="./assets/footer.svg" width="100%" alt="Build with purpose. Learn with consistency. Contribute with care." />
 
 [Repositories](https://github.com/GontuSujithReddy?tab=repositories) · [Pull requests](https://github.com/pulls?q=is%3Apr+author%3AGontuSujithReddy) · [ORCID](https://orcid.org/0009-0003-2506-3489)
+
+<br/>
+
+<img src="./assets/thank-you.svg" width="100%" alt="Thank You! Thanks for stopping by. Keep building. Animated lettering and floating 3D cubes." />
 
 </div>
