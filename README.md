@@ -111,7 +111,9 @@ Submitted a pull request addressing fixups when their target was not applied. Th
 
 <br/>
 
-<img src="./assets/contributions-3d.svg" width="100%" alt="3D contribution calendar: 55 contributions across 13 active days, 2 November 2025 to 1 November 2026. Snapshot before this update; not live." />
+<a href="https://raw.githubusercontent.com/GontuSujithReddy/GontuSujithReddy/f239bf70117d60f4e5f761a8821e71c2f525c42c/assets/contributions-3d.svg" title="Open the animated 3D graph"><img src="https://raw.githubusercontent.com/GontuSujithReddy/GontuSujithReddy/f239bf70117d60f4e5f761a8821e71c2f525c42c/assets/contributions-3d.svg" width="100%" alt="3D contribution calendar: 55 contributions across 13 active days, 2 November 2025 to 1 November 2026. Snapshot before this update; not live." /></a>
+
+<sub>Blocks rise on a repeating loop · Click the graph to open the larger animation.</sub>
 
 [View live contribution graph and activity on GitHub](https://github.com/GontuSujithReddy?tab=overview)
 
