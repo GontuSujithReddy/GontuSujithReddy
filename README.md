@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Gontu Sujith Reddy — Building useful software. Growing through open source." />
+<img src="./assets/hero.svg?v=robot-studio-1" width="100%" alt="Gontu Sujith Reddy — animated developer studio with a floating 3D-style robot." />
 
 <br/>
 
-**SOFTWARE DEVELOPMENT &nbsp; / &nbsp; PROBLEM SOLVING &nbsp; / &nbsp; OPEN SOURCE**
+**Curious mind. Practical projects. A long-term commitment to craft.**
 
-Practical products. Strong fundamentals. Thoughtful contributions.
+Engineering undergraduate · Web applications · Open-source exploration
 
 [Explore projects](#selected-work) · [Open source](#open-source) · [GitHub activity](#github-activity)
 
@@ -14,16 +14,18 @@ Practical products. Strong fundamentals. Thoughtful contributions.
 
 ---
 
-### About me
+## Behind the build
 
 I'm **Gontu Sujith Reddy**, an engineering undergraduate building practical web applications and exploring open source. My projects focus on everyday needs: sharing community resources, managing inventory, and understanding traffic.
 
-- **Building:** web applications with a focus on practical user needs.
-- **Learning:** C, data structures and algorithms, Linux, and Shell scripting.
-- **Exploring:** how mature open-source projects are tested, reviewed, and improved.
-- **Long-term direction:** thoughtful engineering, dependable software, and meaningful collaboration.
+<table>
+<tr><td width="50%" valign="top"><h3>🔨 What I build</h3><p>Practical web applications shaped around everyday needs, from community resource sharing to inventory workflows.</p></td><td width="50%" valign="top"><h3>🌱 What I am learning</h3><p>C, data structures and algorithms, Linux, Shell scripting, debugging, and automated tests.</p></td></tr>
+<tr><td width="50%" valign="top"><h3>🔍 What I explore</h3><p>How mature open-source projects are tested, reviewed, and improved through thoughtful collaboration.</p></td><td width="50%" valign="top"><h3>🧭 Where I am headed</h3><p>Strong fundamentals, dependable software, and a developer career built through consistent learning.</p></td></tr>
+</table>
 
-### Selected work
+<a id="selected-work"></a>
+
+## 🚀 Selected work
 
 <img src="./assets/projects.svg" width="100%" alt="ResourceBridge: a connecting bridge; StockSense: floating inventory blocks; TrafficGuard AI: an isometric road. Decorative project illustrations." />
 
@@ -58,24 +60,26 @@ I'm **Gontu Sujith Reddy**, an engineering undergraduate building practical web 
 </tr>
 </table>
 
-### Skills & toolkit
+## 🧰 Skills & toolkit
 
 **Languages used across my projects**
 
-![C](https://img.shields.io/badge/C-0B1421?style=for-the-badge&logo=c&logoColor=9BD2F0)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B1421?style=for-the-badge&logo=typescript&logoColor=9BD2F0)
-![HTML](https://img.shields.io/badge/HTML-0B1421?style=for-the-badge&logo=html5&logoColor=9BD2F0)
+![C](https://img.shields.io/badge/C-0B1421?style=for-the-badge&logo=c&logoColor=61E7EB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1421?style=for-the-badge&logo=typescript&logoColor=61E7EB)
+![HTML](https://img.shields.io/badge/HTML-0B1421?style=for-the-badge&logo=html5&logoColor=61E7EB)
 
 **Development environment & growing foundations**
 
-![Git](https://img.shields.io/badge/Git-0B1421?style=for-the-badge&logo=git&logoColor=CDB785)
-![GitHub](https://img.shields.io/badge/GitHub-0B1421?style=for-the-badge&logo=github&logoColor=CDB785)
-![Linux](https://img.shields.io/badge/Linux-0B1421?style=for-the-badge&logo=linux&logoColor=CDB785)
-![VS Code](https://img.shields.io/badge/VS_Code-0B1421?style=for-the-badge&logoColor=CDB785)
+![Git](https://img.shields.io/badge/Git-0B1421?style=for-the-badge&logo=git&logoColor=A8B8FF)
+![GitHub](https://img.shields.io/badge/GitHub-0B1421?style=for-the-badge&logo=github&logoColor=A8B8FF)
+![Linux](https://img.shields.io/badge/Linux-0B1421?style=for-the-badge&logo=linux&logoColor=A8B8FF)
+![VS Code](https://img.shields.io/badge/VS_Code-0B1421?style=for-the-badge&logoColor=A8B8FF)
 
 <sub>Actively developing: C programming · DSA · Shell scripting · debugging · automated tests · code review.</sub>
 
-### Open source
+<a id="open-source"></a>
+
+## 🌐 Open source
 
 **Git — sequencer / fixup behavior**
 
@@ -85,17 +89,17 @@ Submitted a pull request addressing fixups when their target was not applied. Th
 
 <sub>Contribution submissions · Follow the linked discussions for current review status.</sub>
 
-### GitHub activity
+<a id="github-activity"></a>
+
+## 📊 GitHub activity
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/GontuSujithReddy?style=for-the-badge&label=Followers&color=9BD2F0&labelColor=0B1421)
+![Followers](https://img.shields.io/github/followers/GontuSujithReddy?style=for-the-badge&label=Followers&color=61E7EB&labelColor=0B1421)
 
-| Public repositories | Contributions in the last year | Followers |
-| :---: | :---: | :---: |
-| **10** | **46** | **3** |
+<img src="./assets/activity.svg" width="100%" alt="Activity snapshot on 1 November 2026: 10 public repositories, 53 contributions in the last year, 3 followers; contribution mix 95% commits and 5% pull requests." />
 
-<sub>Activity snapshot · 31 October 2026 · See GitHub below for current counts.</sub>
+<sub>Snapshot observed on 1 November 2026, before this design update · Counts are not live; see GitHub’s native activity below for current totals.</sub>
 
 [View live contribution graph and activity on GitHub](https://github.com/GontuSujithReddy?tab=overview)
 
