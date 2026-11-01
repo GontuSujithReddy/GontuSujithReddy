@@ -4,6 +4,8 @@
 
 <br/>
 
+<img src="./assets/greetings.svg" width="100%" alt="Hello World! Welcome to my developer space — animated lettering and floating 3D cubes." />
+
 **Curious mind. Practical projects. A long-term commitment to craft.**
 
 Engineering undergraduate · Web applications · Open-source exploration
@@ -62,6 +64,12 @@ I'm **Gontu Sujith Reddy**, an engineering undergraduate building practical web 
 
 ## 🧰 Skills & toolkit
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,ts,html&amp;theme=dark" height="54" alt="C, TypeScript, HTML" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode&amp;theme=dark" height="54" alt="Git, GitHub, Linux, Bash, VS Code — tools and growing foundations" />
+</p>
+
 **Languages used across my projects**
 
 ![C](https://img.shields.io/badge/C-0B1421?style=for-the-badge&logo=c&logoColor=61E7EB)
@@ -108,6 +116,9 @@ Submitted a pull request addressing fixups when their target was not applied. Th
 ---
 
 <div align="center">
+
+<h3>Thank You for Visiting!</h3>
+<p>Explore a project, follow the journey, or share an idea.</p>
 
 <img src="./assets/footer.svg" width="100%" alt="Build with purpose. Learn with consistency. Contribute with care." />
 
