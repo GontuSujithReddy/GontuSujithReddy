@@ -65,9 +65,7 @@ I'm **Gontu Sujith Reddy**, an engineering undergraduate building practical web 
 ## 🧰 Skills & toolkit
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,ts,html&amp;theme=dark" height="54" alt="C, TypeScript, HTML" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode&amp;theme=dark" height="54" alt="Git, GitHub, Linux, Bash, VS Code — tools and growing foundations" />
+<img src="https://raw.githubusercontent.com/GontuSujithReddy/GontuSujithReddy/9edd78697627d7777cec36fee1dbf1e154c99931/assets/skills-3d.svg" width="100%" alt="Raised 3D-style skill icons: C, Rust, TypeScript, HTML, Git, GitHub, Linux, Bash and VS Code." />
 </p>
 
 **Languages used across my projects**
