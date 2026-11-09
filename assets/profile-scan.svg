@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">
+<title id="title">Gontu Sujith Reddy — animated ASCII profile scan</title><desc id="desc">Sujith's portrait drawn with characters, with a moving cyan scanner, violet orbit and animated terminal indicators.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b2b"/><stop offset="1" stop-color="#080b18"/></linearGradient>
+ <linearGradient id="ink" x2=".8" y2="1"><stop stop-color="#9bfff1"/><stop offset=".5" stop-color="#53ddeb"/><stop offset="1" stop-color="#a392ff"/></linearGradient>
+ <linearGradient id="line"><stop stop-color="#52efda" stop-opacity="0"/><stop offset=".45" stop-color="#9afff4"/><stop offset="1" stop-color="#a18aff" stop-opacity="0"/></linearGradient>
+ <linearGradient id="trail" x2="0" y2="1"><stop stop-color="#64fbe9" stop-opacity="0"/><stop offset="1" stop-color="#64fbe9" stop-opacity=".16"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#264364" stop-opacity=".6"/><stop offset="1" stop-color="#101521" stop-opacity="0"/></radialGradient>
+ <clipPath id="photoClip"><rect x="55" y="100" width="460" height="426" rx="14"/></clipPath>
+ <g id="portrait" font-family="monospace" font-size="8.7" xml:space="preserve" fill="url(#ink)"><text x="65" y="119.00">======+;:::..:;;.::::::....:+:.:::::::.  :;:.:..:.:.....;+;:::::;;;::..++;:::;</text>
+<text x="65" y="126.65">=======+::::.:+;:::;;;;::..:+;:::::::::..:;;:::::::::...:;;::;::;;::::::;;;::;</text>
+<text x="65" y="134.30">=======;::::::.::;:;;:;;::::.:;::::::::... .:.....:.::::..::;;;;;;;:;::..:;;;;</text>
+<text x="65" y="141.95">======+;::::... .:;;::::;:... .:...   .          ...:::.....:;;:;;;;::::::.:;;</text>
+<text x="65" y="149.60">=======+::::::::..::;:::::::.                       ..:::::..::;;;;;;;::::...:</text>
+<text x="65" y="157.25">=======+;:::;;;;::..:;;:::.                           .::::::..;+;;;;;;;;;::..</text>
+<text x="65" y="164.90">=======+;::;;;;;;;:.:+;:.                              .::::::::;;;;;;;;;;;:::</text>
+<text x="65" y="172.55">=======+:;;;;;;;;;::...                                 ....:::..:;;;;;;;;:;::</text>
+<text x="65" y="180.20">=======+..:;;;+;;;:..                                     ....:::.:;;::;;;::::</text>
+<text x="65" y="187.85">=======+::.::;;:::..                                        ..:;;:::::;;;;;;;;</text>
+<text x="65" y="195.50">=======+:::..:;::..                                           :;;;;:..;+;;;;;;</text>
+<text x="65" y="203.15">=======+::::::;;::            .... .......                   .:;;;;:::;;;++;;;</text>
+<text x="65" y="210.80">=======+::::::.::              .....::.......                 .;;;;;;;:::;+;++</text>
+<text x="65" y="218.45">=======+:;:::...            .......:;:::::::........          :;;;;;;;;::::;+;</text>
+<text x="65" y="226.10">=======+:;:..::.          ......::;;++++++;;;;;;;:::...    ...:;;;;;;;;;;:::;;</text>
+<text x="65" y="233.75">====x==+;::::;;:        ....::;+=xxXXXXXXXXxxXXx=+;::...   ...:++;;;;;;;;;::::</text>
+<text x="65" y="241.40">======++;::;;;;:.        .:+=xX########%%%%####Xxx+;:::... ...:;+++;;;++;;;;::</text>
+<text x="65" y="249.05">======++::;;;;::....   ..;=X#########%%%%%%%%%##Xx=;:::......::::;;+;;;;;;;;;;</text>
+<text x="65" y="256.70">=======+:::;;;;:......:;;;;;+++=xX###%%%#XXXx====++;;+:::::.::;:::;+++++;+++;;</text>
+<text x="65" y="264.35">=======+++++++++:....:+;;;;;;;::;+xxX#%#xxx=++++===++==;:::::;++++++++++======</text>
+<text x="65" y="272.00">=============++++:...+==xXXXXx=+++=xX#%#XXx===xX####Xxx=;:::;+++++++++========</text>
+<text x="65" y="279.65">======++===++++++;..:=xXXxx==xx=+++=X#%%#Xx====xXXXX##Xx;::;=++++++==========x</text>
+<text x="65" y="287.30">======++++++++++==::;xXX=++=;;+xx==x#%%%#XXxxx+==x=xX##X+;:;x=++++++++========</text>
+<text x="65" y="294.95">xx=====++++++++=x=;:+xXXXxxxxxxXXxxX#%%%####XXXX##X##%%#=;;xxX=++++++=========</text>
+<text x="65" y="302.60">=======++++++++=xxx;=X############XX#%%%%###%%%%%%%%%%%#x+x##X=++++++=========</text>
+<text x="65" y="310.25">====xxx=++++++++x#x+x###%%%%%%%%%###%@@%%%#%%%@@%@@@@%%#Xx#%%X=++++++=========</text>
+<text x="65" y="317.90">==++=+++++++++;+xXx=xX#%%%%%%%%%%##%%@@@%%%%%@@@@@@@@%%%#X%%%X=++++++++++++===</text>
+<text x="65" y="325.55">==++++++;:::::;+xXxxxX#%%%%%@%%%###%%@@@@%%%%@@@@@@@@%%%XX###x+;;;;;;;;++;;;;;</text>
+<text x="65" y="333.20">++++++;+:....:::=XXXxX#%%%%@@@%%####%%@@%%%%%%@@@@@@@%%#X#%%#=;;;:::::::;;::::</text>
+<text x="65" y="340.85">++++++++:.::::.:+###XxX#%%%%%%%%##x=xX##XX#%%%%@@@%%%%%XX%%%X+++;;;;;;:::;;;;;</text>
+<text x="65" y="348.50">++++++;+:.::..:::=X#X=x###%%%%%%##XXXXX###%%%%%@%%%%%##XxXX=++++;;;;;;;;:::;+;</text>
+<text x="65" y="356.15">++++++;;;:...:::::;+;+=xX###%######XX##X##%%%%%%%%%%##Xx+++;;;;+;;;;;;;;;;:.:+</text>
+<text x="65" y="363.80">++++++;;::..:::::::::;=xxXX#XxxxX#XX#%##%%####XX##%##XX=++++;;:;++;;;;;;;;;:.:</text>
+<text x="65" y="371.45">++++++;;:.::::::::::::;==xXXx=+==xxxxXXXXXXXXXXXX###XXx+++++;;;;;++;;;;;;;::::</text>
+<text x="65" y="379.10">++++++;;:....:::::::...;==xxxxxxxxXX#%%%%%%#%%%###XXXx++++;;;;;;::;++;;;;;;;;:</text>
+<text x="65" y="386.75">++++++++:...::::::.....:;===xxxXXXXXX####%%%%%###XXXX=++;;;;;;;;;:::;+;;;;;;;;</text>
+<text x="65" y="394.40">++++++++:..:::::........:;+===xxxXXXXXXX##%%%%####XXX=;;+;;;;;++;;;:.:;;;;;;;;</text>
+<text x="65" y="402.05">++++++++:..::::..........;++=xxxxXXX###%%%%%%%%##XXX#=::;++;;+++++;::.;+;;;;;;</text>
+<text x="65" y="409.70">++++++++:..:::...........;++++=xXXX##%%%%%%%%%#XxxX##=:::;+++++++;;;::::;+;;;;</text>
+<text x="65" y="417.35">++++++++:.::.............:+=+;;+=xxXX########XxxxX#%#+::..:;;;;;;;;;;::..:;+;;</text>
+<text x="65" y="425.00">++++++;;:.....:......... .+==+;;;;;+=xxxxxxxxxxX##%#x;:::......::;;;;;;::.:;+;</text>
+<text x="65" y="432.65">++++++++::..::::::..      ;=xx==+++;;+++==xXXX##%%%X+::::.....   ...::::;;:.;+</text>
+<text x="65" y="440.30">++++++++:.:..::...        :=xxx========xXX####%%%%#x;::::.........    ..::;::;</text>
+<text x="65" y="447.95">++++++;+:.....         .  .=xxxxx=xxxXX######%%%%%X+::::..........       ...::</text>
+<text x="65" y="455.60">++++++;;:...         ...  .+xXXXxxxxxXX###%%%%%%%X=;::::..........     .......</text>
+<text x="65" y="463.25">+;;;:::....................;=XXXXXXXXXX##%%%%%%##x+:::::.............  .......</text>
+<text x="65" y="470.90">::.......................::;+xXXXXXX###%%%%%%##XX=+:::::.............. .......</text>
+<text x="65" y="478.55">.....................:::::;;+=xXX#XXX#%%%######Xx=+:::::..................:::.</text>
+<text x="65" y="486.20">:.....:..............::::;;++=xXX##############Xx=;;::::.................:::::</text>
+<text x="65" y="493.85">......:..............::::;+==xxxX#######%%%%###Xx+;;::::::...............:::::</text>
+<text x="65" y="501.50">......::............:::::+xxxXXXX##%%%%%%%%%%###X=;;;::::::..............:::::</text>
+<text x="65" y="509.15">.......:......:...:::::::=XXX###X##%%%%%%%%%%%##Xx=+;;::::::.............:::::</text></g>
+</defs>
+<rect width="1200" height="640" rx="24" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="638" rx="23" fill="none" stroke="#293c53"/>
+<ellipse cx="290" cy="310" rx="310" ry="300" fill="url(#halo)"/>
+<g font-family="monospace" font-size="12" letter-spacing="2" fill="#90a6bf">
+ <text x="37" y="39">GSR / DEVELOPER IDENTITY</text><text x="909" y="39">LEARN. BUILD. CONTRIBUTE.</text>
+</g>
+<path d="M32 59H1168" stroke="#2a364a"/>
+<g><circle cx="42" cy="78" r="3" fill="#5cf8d6"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle><text x="54" y="82" fill="#8bb9bc" font-family="monospace" font-size="10" letter-spacing="2">PORTRAIT / ASCII SCAN</text></g>
+<rect x="39" y="94" width="493" height="447" rx="18" fill="#080f1c" stroke="#2c5665"/>
+<g clip-path="url(#photoClip)"><use href="#portrait" opacity=".85" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#portrait"/>
+<g><animateTransform attributeName="transform" type="translate" values="0,-370;0,50;0,-370" dur="8s" repeatCount="indefinite"/>
+<rect x="55" y="401" width="460" height="70" fill="url(#trail)"/>
+<rect x="55" y="470" width="460" height="2" fill="url(#line)"/>
+<path d="M55 472H515" stroke="#b7fff4" stroke-opacity=".3" stroke-width="7"/></g></g>
+<g fill="none" stroke="#71f9e3" stroke-width="2"><path d="M53 127V109H74 M497 109H518V127 M53 509V527H74 M497 527H518V509"/><circle cx="287" cy="315" r="204" stroke="#568ba5" stroke-width=".6" stroke-dasharray="3 12" opacity=".5"><animateTransform attributeName="transform" type="rotate" from="0 287 315" to="360 287 315" dur="65s" repeatCount="indefinite"/></circle></g>
+<g font-family="monospace"><text x="58" y="565" fill="#789aaf" font-size="10" letter-spacing="2">GONTUSUJITHREDDY / HUMAN BEHIND THE CODE</text></g>
+<g font-family="Arial,Helvetica,sans-serif"><text x="575" y="122" fill="#6eead7" font-size="12" letter-spacing="3">ENGINEERING IN PROGRESS</text>
+<text x="572" y="181" fill="#f0f5fc" font-size="45" font-weight="700">Gontu Sujith</text><text x="572" y="231" fill="#f0f5fc" font-size="45" font-weight="700">Reddy<tspan fill="#70eadb">.</tspan></text>
+<text x="575" y="265" fill="#a2b7cd" font-size="18">Curious mind. Useful software. Open source.</text></g>
+<path d="M575 288H1142" stroke="#29364c"/>
+<g font-family="monospace" font-size="15"><g fill="#657e99"><text x="576" y="324">ROLE</text><text x="576" y="365">FOCUS</text><text x="576" y="406">LEARNING</text><text x="576" y="447">MINDSET</text></g>
+<g fill="#cedceb"><text x="730" y="324">Engineering undergraduate</text><text x="730" y="365">Web apps + open source</text><text x="730" y="406">C / DSA / Linux / Shell</text><text x="730" y="447">Build. Test. Improve.</text></g></g>
+<rect x="575" y="479" width="568" height="63" rx="11" fill="#101c2c" stroke="#283b52"/>
+<g font-family="monospace" font-size="14"><text x="595" y="504" fill="#63e8d6">$ git commit</text><text x="595" y="526" fill="#a3b5cc">one thoughtful contribution at a time</text><rect x="1055" y="514" width="8" height="14" fill="#91a0ff"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/></rect></g>
+<path d="M39 584H1161" stroke="#28394e"/>
+<g font-family="monospace" font-size="11" letter-spacing="1.4" fill="#8ca3bd"><text x="39" y="614">01 / LEARN DEEPLY</text><text x="430" y="614">02 / BUILD WITH PURPOSE</text><text x="871" y="614">03 / CONTRIBUTE WITH CARE</text></g>
+<rect x="39" y="583" width="90" height="2" fill="#6bf5dc"><animate attributeName="x" values="39;1071;39" dur="10s" repeatCount="indefinite"/></rect>
+</svg>
