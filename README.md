@@ -123,7 +123,7 @@ Submitted a pull request addressing fixups when their target was not applied. Th
 
 <p>Explore a project, follow the journey, or share an idea.</p>
 
-<img src="https://raw.githubusercontent.com/GontuSujithReddy/GontuSujithReddy/4af0950a50cc7947d33f22f6ccdfb39469f58003/assets/footer.svg" width="100%" alt="Build with purpose. Learn with consistency. Contribute with care." />
+<img src="https://raw.githubusercontent.com/GontuSujithReddy/GontuSujithReddy/5ab593fdaa75b92d010d9d8cc7c812bae8dd0799/assets/footer.svg" width="100%" alt="BUILD. LEARN. EVOLVE. Floating 3D-style words and coding cubes. One commit closer to something extraordinary." />
 
 [Repositories](https://github.com/GontuSujithReddy?tab=repositories) · [Pull requests](https://github.com/pulls?q=is%3Apr+author%3AGontuSujithReddy) · [ORCID](https://orcid.org/0009-0003-2506-3489)
 
