@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="./assets/profile-scan.svg" width="100%" alt="Gontu Sujith Reddy — animated ASCII face portrait with a cyan scan beam and developer profile." />
-<br/>
-
 <img src="https://raw.githubusercontent.com/GontuSujithReddy/GontuSujithReddy/fc8080ba68d4b7041bcd892b53ff14fe96ba0ffa/assets/hero.svg" width="100%" alt="Gontu Sujith Reddy — animated developer studio with a floating 3D-style robot." />
 
 <br/>
