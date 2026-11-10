@@ -1,1 +1,78 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560"><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101f34"/><stop offset="1" stop-color="#080f1d"/></linearGradient><linearGradient id="line"><stop stop-color="#61e7eb"/><stop offset="1" stop-color="#b1a8ff"/></linearGradient><linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#61e7eb" stop-opacity=".28"/><stop offset="1" stop-color="#61e7eb" stop-opacity=".02"/></linearGradient></defs><rect x="1" y="1" width="1198" height="558" rx="24" fill="url(#bg)" stroke="#29425a"/><g font-family="Arial,sans-serif"><text x="44" y="42" fill="#61e7eb" font-size="12" letter-spacing="3">PROGRESS, TRACED IN 3D</text><text x="44" y="82" fill="#edf6ff" font-size="31" font-weight="bold">Every contribution moves the line.</text><text x="44" y="109" fill="#90a9be" font-size="15">Monthly contributions · August–November 2026</text><text x="880" y="58" fill="#61e7eb" font-size="34" font-weight="bold">55</text><text x="880" y="82" fill="#90a9be" font-size="11">CONTRIBUTIONS</text><text x="1050" y="58" fill="#b1a8ff" font-size="34" font-weight="bold">13</text><text x="1050" y="82" fill="#90a9be" font-size="11">ACTIVE DAYS</text></g><path d="M170 425 950 425 1030 375 250 375Z" fill="#142b40" stroke="#35516a"/><path d="M170 425H950l80 -50H250Z" fill="none" stroke="#29425a" stroke-width="1"/><text x="142" y="430" fill="#819bb2" font-family="Arial" font-size="13" text-anchor="end">0</text><path d="M170 355H950l80 -50H250Z" fill="none" stroke="#29425a" stroke-width="1"/><text x="142" y="360" fill="#819bb2" font-family="Arial" font-size="13" text-anchor="end">10</text><path d="M170 285H950l80 -50H250Z" fill="none" stroke="#29425a" stroke-width="1"/><text x="142" y="290" fill="#819bb2" font-family="Arial" font-size="13" text-anchor="end">20</text><path d="M170 215H950l80 -50H250Z" fill="none" stroke="#29425a" stroke-width="1"/><text x="142" y="220" fill="#819bb2" font-family="Arial" font-size="13" text-anchor="end">30</text><path d="M170 425l80 -50V165" fill="none" stroke="#29425a"/><path d="M430 425l80 -50V165" fill="none" stroke="#29425a"/><path d="M690 425l80 -50V165" fill="none" stroke="#29425a"/><path d="M950 425l80 -50V165" fill="none" stroke="#29425a"/><path d="M170 418 L430 306 L690 243 L950 348L950 425H170Z" fill="url(#area)"/><path d="M170 418 L430 306 L690 243 L950 348" transform="translate(5 7)" fill="none" stroke="#050a15" stroke-width="9" stroke-linejoin="round"/><path d="M170 418 L430 306 L690 243 L950 348" fill="none" stroke="#61e7eb" stroke-opacity=".14" stroke-width="18" stroke-linejoin="round"/><path d="M170 418 L430 306 L690 243 L950 348" fill="none" stroke="url(#line)" stroke-width="5" stroke-linejoin="round" pathLength="1000" stroke-dasharray="1000" stroke-dashoffset="0"><animate attributeName="stroke-dashoffset" values="1000;0;0" keyTimes="0;0.35;1" dur="10s" repeatCount="indefinite"/></path><path d="M170 418V425" stroke="#4b778c" stroke-dasharray="3 5"/><circle cx="170" cy="418" r="10" fill="#101e31" stroke="#88e9ee" stroke-width="3"/><circle cx="170" cy="418" r="4" fill="#e5feff"/><text x="170" y="396" text-anchor="middle" fill="#edf6ff" font-family="Arial" font-size="21" font-weight="bold">1</text><text x="170" y="459" text-anchor="middle" fill="#a0b5c8" font-family="Arial" font-size="13">AUG</text><path d="M430 306V425" stroke="#4b778c" stroke-dasharray="3 5"/><circle cx="430" cy="306" r="10" fill="#101e31" stroke="#88e9ee" stroke-width="3"/><circle cx="430" cy="306" r="4" fill="#e5feff"/><text x="430" y="284" text-anchor="middle" fill="#edf6ff" font-family="Arial" font-size="21" font-weight="bold">17</text><text x="430" y="459" text-anchor="middle" fill="#a0b5c8" font-family="Arial" font-size="13">SEP</text><path d="M690 243V425" stroke="#4b778c" stroke-dasharray="3 5"/><circle cx="690" cy="243" r="10" fill="#101e31" stroke="#88e9ee" stroke-width="3"/><circle cx="690" cy="243" r="4" fill="#e5feff"/><text x="690" y="221" text-anchor="middle" fill="#edf6ff" font-family="Arial" font-size="21" font-weight="bold">26</text><text x="690" y="459" text-anchor="middle" fill="#a0b5c8" font-family="Arial" font-size="13">OCT</text><path d="M950 348V425" stroke="#4b778c" stroke-dasharray="3 5"/><circle cx="950" cy="348" r="10" fill="#101e31" stroke="#88e9ee" stroke-width="3"/><circle cx="950" cy="348" r="4" fill="#e5feff"/><text x="950" y="326" text-anchor="middle" fill="#edf6ff" font-family="Arial" font-size="21" font-weight="bold">11</text><text x="950" y="459" text-anchor="middle" fill="#a0b5c8" font-family="Arial" font-size="13">NOV 1 ONLY</text><path d="M44 488H1156" stroke="#29425a"/><g font-family="Arial" fill="#90a9be" font-size="12"><text x="44" y="514">Snapshot: 1 Nov 2026 · November includes only Nov 1 · Not live</text><text x="44" y="536">Height shows contribution count. Perspective depth is decorative.</text><text x="1156" y="518" text-anchor="end" fill="#61e7eb">LEARN · BUILD · CONTRIBUTE</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="560" viewBox="0 0 1100 560" role="img" aria-labelledby="title desc">
+<title id="title">Contribution journey — Gontu Sujith Reddy</title><desc id="desc">Historical snapshot from 1 November 2026: August 1, September 17, October 26, November 1 only 11. Total 55 contributions across 13 active days. Animated line drawing and decorative light particles; values are not live.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#171d2b"/><stop offset="1" stop-color="#090e17"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#5de8c0"/><stop offset=".52" stop-color="#83baff"/><stop offset="1" stop-color="#d6a9ff"/></linearGradient>
+<linearGradient id="area" x2="0" y2="1"><stop stop-color="#91a9ff" stop-opacity=".26"/><stop offset="1" stop-color="#5de8c0" stop-opacity=".015"/></linearGradient>
+<radialGradient id="orb"><stop stop-color="#7351a7" stop-opacity=".23"/><stop offset="1" stop-color="#7351a7" stop-opacity="0"/></radialGradient>
+<filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="5"/></filter>
+<style>
+text{font-family:Arial,Helvetica,sans-serif}
+.trace{stroke-dasharray:1;animation:draw 14s ease-in-out infinite}
+.fill{animation:fill 14s ease-in-out infinite}
+.halo{transform-box:fill-box;transform-origin:center;animation:pulse 5s ease-in-out infinite}
+.h1{animation-delay:1s}.h2{animation-delay:2s}.h3{animation-delay:3s}
+.spark{animation:spark 14s ease-in-out infinite}
+.star{animation:twinkle 6s ease-in-out infinite}
+@keyframes draw{0%,7%{stroke-dashoffset:1;opacity:0}9%{opacity:1}38%,89%{stroke-dashoffset:0;opacity:1}98%,100%{stroke-dashoffset:0;opacity:0}}
+@keyframes fill{0%,12%{opacity:.25}38%,89%{opacity:1}98%,100%{opacity:.25}}
+@keyframes pulse{0%,100%{transform:scale(.85);opacity:.16}50%{transform:scale(1.35);opacity:.45}}
+@keyframes spark{0%,8%,45%,100%{opacity:0}12%,36%{opacity:1}}
+@keyframes twinkle{0%,100%{opacity:.2}50%{opacity:.75}}
+@media(prefers-reduced-motion:reduce){.trace,.fill,.halo,.star{animation:none}.trace{stroke-dashoffset:0}.spark{display:none}}
+</style></defs>
+<rect x="1" y="1" width="1098" height="558" rx="26" fill="url(#bg)" stroke="#363b50"/>
+<ellipse cx="920" cy="200" rx="250" ry="220" fill="url(#orb)"/>
+<path d="M32 0H380" stroke="url(#accent)" stroke-width="3"/>
+<g fill="#9bb2c9"><circle class="star" cx="1021" cy="278" r="2"/><circle class="star h2" cx="990" cy="374" r="1.5"/><circle class="star h1" cx="1045" cy="433" r="2"/><circle class="star" cx="792" cy="195" r="1.5"/></g>
+<rect x="38" y="32" width="8" height="8" rx="2" fill="#66e3c0"/>
+<text x="57" y="40" fill="#8fe7d2" font-size="11" letter-spacing="3">THE CONTRIBUTION JOURNEY</text>
+<text x="38" y="82" fill="#f5f6ff" font-size="30" font-weight="700">Small commits. Real momentum.</text>
+<text x="39" y="109" fill="#98a5bb" font-size="13">A record of showing up, learning, and building.</text>
+<g transform="translate(708 30)"><rect width="105" height="91" rx="15" fill="#1b2730" stroke="#35454c"/><text x="16" y="39" fill="#75e8c4" font-size="30" font-weight="700">55</text><text x="16" y="63" fill="#a2b5c2" font-size="9" letter-spacing="1">CONTRIBUTIONS</text><text x="16" y="79" fill="#718895" font-size="9">Snapshot total</text></g>
+<g transform="translate(825 30)"><rect width="105" height="91" rx="15" fill="#222335" stroke="#40405a"/><text x="16" y="39" fill="#c6adff" font-size="30" font-weight="700">13</text><text x="16" y="63" fill="#b7afce" font-size="9" letter-spacing="1">ACTIVE DAYS</text><text x="16" y="79" fill="#8d83a2" font-size="9">Snapshot total</text></g>
+<g transform="translate(942 30)"><rect width="119" height="91" rx="15" fill="#2c2827" stroke="#4c4236"/><text x="16" y="39" fill="#e9c08a" font-size="30" font-weight="700">26</text><text x="16" y="63" fill="#c9b6a0" font-size="9" letter-spacing="1">OCTOBER</text><text x="16" y="79" fill="#a18b70" font-size="9">Best full month</text></g>
+<path d="M38 145H1062" stroke="#303548"/>
+<text x="40" y="170" fill="#75849d" font-size="10" letter-spacing="2">MONTHLY CONTRIBUTIONS</text>
+<text x="1060" y="170" fill="#9e91b5" font-size="10" text-anchor="end">AUG — NOV 2026</text>
+<path d="M100 430H895" stroke="#293041" stroke-dasharray="0"/><text x="73" y="435" fill="#778198" text-anchor="end" font-size="12">0</text><path d="M100 350H895" stroke="#293041" stroke-dasharray="3 8"/><text x="73" y="355" fill="#778198" text-anchor="end" font-size="12">10</text><path d="M100 270H895" stroke="#293041" stroke-dasharray="3 8"/><text x="73" y="275" fill="#778198" text-anchor="end" font-size="12">20</text><path d="M100 190H895" stroke="#293041" stroke-dasharray="3 8"/><text x="73" y="195" fill="#778198" text-anchor="end" font-size="12">30</text>
+<path d="M100 422 L365 294 L630 222 L895 342 L895 430 H100Z" fill="url(#area)" class="fill"/>
+<path d="M100 422 L365 294 L630 222 L895 342" fill="none" stroke="#000" stroke-width="7" opacity=".5" transform="translate(0 9)"/>
+<path d="M100 422 L365 294 L630 222 L895 342" fill="none" stroke="url(#accent)" stroke-width="3" opacity=".2"/>
+<path d="M100 422 L365 294 L630 222 L895 342" pathLength="1" fill="none" stroke="url(#accent)" stroke-width="12" filter="url(#glow)" opacity=".45" class="trace"/>
+<path d="M100 422 L365 294 L630 222 L895 342" pathLength="1" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" class="trace"/>
+<path d="M100 432V430" stroke="#525b75" stroke-dasharray="2 6" opacity=".5"/>
+<circle cx="100" cy="422" r="18" fill="none" stroke="#61e6c4" opacity=".25" class="halo h0"/>
+<circle cx="100" cy="422" r="7" fill="#101621" stroke="#61e6c4" stroke-width="3"/>
+<circle cx="100" cy="422" r="2" fill="white"/>
+<rect x="76" y="374" width="48" height="29" rx="9" fill="#252d3c" stroke="#414b60"/>
+<text x="100" y="394" fill="#f7f8ff" font-size="17" font-weight="700" text-anchor="middle">1</text>
+<text x="100" y="462" fill="#b7c0d3" font-size="12" letter-spacing="2" text-anchor="middle">AUG</text><path d="M365 304V430" stroke="#525b75" stroke-dasharray="2 6" opacity=".5"/>
+<circle cx="365" cy="294" r="18" fill="none" stroke="#61e6c4" opacity=".25" class="halo h1"/>
+<circle cx="365" cy="294" r="7" fill="#101621" stroke="#61e6c4" stroke-width="3"/>
+<circle cx="365" cy="294" r="2" fill="white"/>
+<rect x="341" y="246" width="48" height="29" rx="9" fill="#252d3c" stroke="#414b60"/>
+<text x="365" y="266" fill="#f7f8ff" font-size="17" font-weight="700" text-anchor="middle">17</text>
+<text x="365" y="462" fill="#b7c0d3" font-size="12" letter-spacing="2" text-anchor="middle">SEP</text><path d="M630 232V430" stroke="#525b75" stroke-dasharray="2 6" opacity=".5"/>
+<circle cx="630" cy="222" r="18" fill="none" stroke="#d9b8ff" opacity=".25" class="halo h2"/>
+<circle cx="630" cy="222" r="7" fill="#101621" stroke="#d9b8ff" stroke-width="3"/>
+<circle cx="630" cy="222" r="2" fill="white"/>
+<rect x="606" y="174" width="48" height="29" rx="9" fill="#252d3c" stroke="#414b60"/>
+<text x="630" y="194" fill="#f7f8ff" font-size="17" font-weight="700" text-anchor="middle">26</text>
+<text x="630" y="462" fill="#b7c0d3" font-size="12" letter-spacing="2" text-anchor="middle">OCT</text><path d="M895 352V430" stroke="#525b75" stroke-dasharray="2 6" opacity=".5"/>
+<circle cx="895" cy="342" r="18" fill="none" stroke="#61e6c4" opacity=".25" class="halo h3"/>
+<circle cx="895" cy="342" r="7" fill="#101621" stroke="#61e6c4" stroke-width="3"/>
+<circle cx="895" cy="342" r="2" fill="white"/>
+<rect x="871" y="294" width="48" height="29" rx="9" fill="#252d3c" stroke="#414b60"/>
+<text x="895" y="314" fill="#f7f8ff" font-size="17" font-weight="700" text-anchor="middle">11</text>
+<text x="895" y="462" fill="#b7c0d3" font-size="12" letter-spacing="2" text-anchor="middle">NOV 1</text>
+<g class="spark"><circle r="11" fill="#b6eaff" filter="url(#glow)"/><circle r="3.5" fill="#fff"/><animateMotion dur="14s" repeatCount="indefinite" path="M100 422 L365 294 L630 222 L895 342" keyPoints="0;0;1;1" keyTimes="0;0.09;0.38;1" calcMode="linear"/></g>
+<path d="M945 235V430" stroke="#3a344e"/>
+<text x="971" y="256" fill="#cab5ec" font-size="10" letter-spacing="1">KEEP</text><text x="971" y="275" fill="#cab5ec" font-size="10" letter-spacing="1">BUILDING</text>
+<path d="M973 308l15 -15 15 15m-15 -15v46" stroke="#a791d0" stroke-width="2" fill="none"/>
+<text x="895" y="480" fill="#7e889b" font-size="10" text-anchor="middle">PARTIAL MONTH</text>
+<path d="M38 499H1062" stroke="#303548"/>
+<text x="38" y="524" fill="#a1aabd" font-size="11">Snapshot: 1 Nov 2026 · November includes Nov 1 only · Not live</text>
+<text x="38" y="542" fill="#6d788f" font-size="10">Values show contribution counts. Light and depth effects are decorative.</text>
+<text x="1061" y="531" fill="#89dfc8" font-size="10" letter-spacing="2" text-anchor="end">BUILD / LEARN / EVOLVE</text>
+</svg>
