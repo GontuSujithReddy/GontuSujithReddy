@@ -21,7 +21,7 @@ Engineering undergraduate · Web applications · Open-source exploration
 I'm **Gontu Sujith Reddy**, an engineering undergraduate building practical web applications and exploring open source. My projects focus on everyday needs: sharing community resources, managing inventory, and understanding traffic.
 
 <table>
-<tr><td width="50%" valign="top"><h3>🔨 What I build</h3><p>Practical web applications shaped around everyday needs, from community resource sharing to inventory workflows.</p></td><td width="50%" valign="top"><h3>🌱 What I am learning</h3><p>C, data structures and algorithms, Linux, Shell scripting, debugging, and automated tests.</p></td></tr>
+<tr><td width="50%" valign="top"><h3>🔨 What I build</h3><p>Practical web applications shaped around everyday needs, from community resource sharing to inventory workflows.</p></td><td width="50%" valign="top"><h3>🌱 What I am learning</h3><p>C, Go, data structures and algorithms, Linux, Shell scripting, debugging, and automated tests.</p></td></tr>
 <tr><td width="50%" valign="top"><h3>🔍 What I explore</h3><p>How mature open-source projects are tested, reviewed, and improved through thoughtful collaboration.</p></td><td width="50%" valign="top"><h3>🧭 Where I am headed</h3><p>Strong fundamentals, dependable software, and a developer career built through consistent learning.</p></td></tr>
 </table>
 
@@ -36,13 +36,13 @@ I'm **Gontu Sujith Reddy**, an engineering undergraduate building practical web 
 <td width="50%" valign="top">
 <h3>01 / ResourceBridge</h3>
 <p>A community platform connecting resource owners with people who need spaces, gadgets, learning materials, and other shared assets.</p>
-<p><code>Community</code> <code>Resource sharing</code> <code>TypeScript</code></p>
+<p><code>Community</code> <code>Resource sharing</code></p>
 <a href="https://github.com/GontuSujithReddy/Codeathon"><b>Explore repository →</b></a>
 </td>
 <td width="50%" valign="top">
 <h3>02 / StockSense</h3>
 <p>Inventory management with transparent stock signals and practical workflows for keeping business operations organized.</p>
-<p><code>Inventory</code> <code>Operations</code> <code>TypeScript</code></p>
+<p><code>Inventory</code> <code>Operations</code></p>
 <a href="https://github.com/GontuSujithReddy/stocksense"><b>Explore repository →</b></a>
 </td>
 </tr>
@@ -50,7 +50,7 @@ I'm **Gontu Sujith Reddy**, an engineering undergraduate building practical web 
 <td width="50%" valign="top">
 <h3>03 / TrafficGuard AI</h3>
 <p>An AI-powered traffic congestion prediction agent exploring technology for smarter mobility.</p>
-<p><code>AI exploration</code> <code>Mobility</code> <code>HTML</code></p>
+<p><code>AI exploration</code> <code>Mobility</code></p>
 <a href="https://github.com/GontuSujithReddy/TrafficGuard-AI"><b>Explore repository →</b></a>
 </td>
 <td width="50%" valign="top">
@@ -65,14 +65,13 @@ I'm **Gontu Sujith Reddy**, an engineering undergraduate building practical web 
 ## 🧰 Skills & toolkit
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/e6e875b0-2aa2-4fdb-bd1f-6314ab71620b" width="100%" alt="Realistic sculpted 3D icons for C, Rust, TypeScript, HTML, Git, GitHub, Linux, Bash and VS Code." />
+<img src="https://github.com/user-attachments/assets/0de641ef-259b-411f-9e6c-a5330d9048d4" width="100%" alt="Realistic sculpted 3D icons for Go, C, Git, GitHub, Linux, Bash and VS Code." />
 </p>
 
-**Languages used across my projects**
+**Languages I’m learning**
 
 ![C](https://img.shields.io/badge/C-0B1421?style=for-the-badge&logo=c&logoColor=61E7EB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B1421?style=for-the-badge&logo=typescript&logoColor=61E7EB)
-![HTML](https://img.shields.io/badge/HTML-0B1421?style=for-the-badge&logo=html5&logoColor=61E7EB)
+![Go](https://img.shields.io/badge/Go-0B1421?style=for-the-badge&logo=go&logoColor=61E7EB)
 
 **Development environment & growing foundations**
 
