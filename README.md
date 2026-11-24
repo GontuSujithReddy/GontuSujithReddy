@@ -65,7 +65,7 @@ I'm **Gontu Sujith Reddy**, an engineering undergraduate building practical web 
 ## 🧰 Skills & toolkit
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,go,git,github,linux,bash,vscode" alt="C, Go, Git, GitHub, Linux, Bash and VS Code" />
+<img src="./assets/skills-3d.svg" width="100%" alt="C, Go, Git, GitHub, Linux, Bash and VS Code" />
 </p>
 
 **Languages I’m learning**
