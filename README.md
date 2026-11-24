@@ -65,7 +65,7 @@ I'm **Gontu Sujith Reddy**, an engineering undergraduate building practical web 
 ## 🧰 Skills & toolkit
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/692d801d-6750-44a6-ad2e-a805c5e5a754" width="100%" alt="Realistic sculpted 3D icons for C, Git, GitHub, Linux, Bash, VS Code and Go." />
+<img src="https://github.com/user-attachments/assets/7d3b7595-a8c2-4952-b05a-10eb77b91d7a" width="100%" alt="3D skills banner. Top row: C, Go and MySQL. Bottom row: Git, GitHub, Linux, Bash and VS Code." />
 </p>
 
 **Languages I’m learning**
